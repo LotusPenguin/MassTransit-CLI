@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pingwin\\Desktop\\KSR\\MassTransit2\\Wydawca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFF2BE8-5A60-4E6C-98E5-AE489D3D89C0}|Wydawca.csproj|c:\\users\\pingwin\\desktop\\ksr\\masstransit2\\wydawca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFF2BE8-5A60-4E6C-98E5-AE489D3D89C0}|Wydawca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pingwin\\Desktop\\KSR\\MassTransit2\\Wydawca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Pingwin\\Desktop\\KSR\\MassTransit2\\Wydawca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAOsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:06:36.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
